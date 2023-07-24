@@ -1,0 +1,9 @@
+POST http://localhost:5000/suppliers
+Content-Type: application/json
+
+{
+    "name": "Abu Ghali Motors",
+    "email": "sales@AbuGhali.com",
+    "address": "Ismailia Desert Rd, Gamaiet Ahmed Orabi, Al Obour, Cairo Governorate 6363003",
+    "imgURL": "https://www.stjegypt.com/uploads/992854278746.jpg"
+}
